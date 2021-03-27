@@ -1,0 +1,13 @@
+/venv/
+.idea/
+.vim/
+__pycache__/
+test.py
+*.swp
+*.db
+db.*
+TODO*
+**.sqlite
+**.sqlite-journal
+*.py[cod]
+*$py.class
